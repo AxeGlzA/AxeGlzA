@@ -3,6 +3,7 @@
 I'am a Computer Engineering studetn at University of Guadalajara
 
 - 🌱 I’m currently learning artificial inteligence
+
 <!--
 **AxeGlzA/AxeGlzA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
