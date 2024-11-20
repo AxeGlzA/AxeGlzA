@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+<!--# 💫 About Me:-->
 Hi! I'm a 21-year-old junior programmer and a student at the University of Guadalajara. I use this space to share my learning journey and projects as I explore various fields in computer science.<br><br>Currently, I'm working on:<br><br>🌟 Graphical User Interfaces<br>🖥️ Operating Systems<br>🤖 Artificial Intelligence Models<br>📊 Database Management Systems
 
 
